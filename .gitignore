@@ -1,0 +1,27 @@
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# C++ object files and libraries
+*.a
+*.lib
+
+# C++ IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+
+# C++ dependency files
+build/
+bin/
+
+*.txt
